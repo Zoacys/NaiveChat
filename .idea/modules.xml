@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/NaiveChat.iml" filepath="$PROJECT_DIR$/.idea/NaiveChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itstack-naive-chat-client/itstack-naive-chat-client.iml" filepath="$PROJECT_DIR$/itstack-naive-chat-client/itstack-naive-chat-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-client-01/itstack-naive-chat-client-01.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-client-01/itstack-naive-chat-client-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itstack-naive-chat-server/itstack-naive-chat-server.iml" filepath="$PROJECT_DIR$/itstack-naive-chat-server/itstack-naive-chat-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-server-01/itstack-naive-chat-server-01.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-server-01/itstack-naive-chat-server-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-server-02/itstack-naive-chat-server-02.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-server-02/itstack-naive-chat-server-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-server-03/itstack-naive-chat-server-03.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-server-03/itstack-naive-chat-server-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-server-04/itstack-naive-chat-server-04.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-server-04/itstack-naive-chat-server-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-server-05/itstack-naive-chat-server-05.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-server-05/itstack-naive-chat-server-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itstack-naive-chat-server/itstack-naive-chat-server-agreement/itstack-naive-chat-server-agreement.iml" filepath="$PROJECT_DIR$/itstack-naive-chat-server/itstack-naive-chat-server-agreement/itstack-naive-chat-server-agreement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itstack-naive-chat-server/itstack-naive-chat-server-ddd/itstack-naive-chat-server-ddd.iml" filepath="$PROJECT_DIR$/itstack-naive-chat-server/itstack-naive-chat-server-ddd/itstack-naive-chat-server-ddd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itstack-naive-chat-ui/itstack-naive-chat-ui.iml" filepath="$PROJECT_DIR$/itstack-naive-chat-ui/itstack-naive-chat-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-01/itstack-naive-chat-ui-01.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-ui-01/itstack-naive-chat-ui-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-02/itstack-naive-chat-ui-02.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-ui-02/itstack-naive-chat-ui-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-03/itstack-naive-chat-ui-03.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-ui-03/itstack-naive-chat-ui-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-04/itstack-naive-chat-ui-04.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-ui-04/itstack-naive-chat-ui-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-05/itstack-naive-chat-ui-05.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-ui-05/itstack-naive-chat-ui-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-06/itstack-naive-chat-ui-06.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-ui-06/itstack-naive-chat-ui-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-07/itstack-naive-chat-ui-07.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-ui-07/itstack-naive-chat-ui-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-08/itstack-naive-chat-ui-08.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-ui-08/itstack-naive-chat-ui-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-09/itstack-naive-chat-ui-09.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-ui-09/itstack-naive-chat-ui-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/itstack-naive-chat-ui-10/itstack-naive-chat-ui-10.iml" filepath="$PROJECT_DIR$/demo/itstack-naive-chat-ui-10/itstack-naive-chat-ui-10.iml" />
+    </modules>
+  </component>
+</project>
